@@ -1,5 +1,5 @@
 ---
-- name : installation nginx
+- name : installation nginx test
   hosts: all
   tasks : 
     - name : update yum
