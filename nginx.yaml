@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 - name : installation nginx test12
+=======
+- name : installation nginx test11
+>>>>>>> aa131e27a4f91af769fd4c993389aa1f3cf5e4ca
   hosts: all
   tasks : 
     - name : update yum
